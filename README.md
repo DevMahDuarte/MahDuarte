@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 🥰✨
 Estamos em construção... 🧱
  <div>
-   <a href="https://github.com/MahDuarte">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahDuarte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahDuarte&layout=compact&langs_count=6&theme=synthwave"/>
+   <a href="https://github.com/DevMahDuarte">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMahDuarte&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMahDuarte&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
 <div style="display: inline_block"><br>
